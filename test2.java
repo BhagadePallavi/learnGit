@@ -14,6 +14,8 @@ public class test2
 	
 	String []a ={"Pal","Pall","Pal"};
 	
+	System.out.println("Pallavi git learning");
+	
 	for(String str:a)
 	{
 		System.out.println("value"+str);
